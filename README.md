@@ -3,8 +3,7 @@ An application to handle new customer bank account requests
 
  =>Read CSV file of names,social security number,account type and initial deposit to create new accounts
  
- =>There are two types of accounts:
-    * Checking and Saving
+ =>There are two types of accounts: Checking and Saving
     
  =>Customer can withdraw,deposit and transfer the money from the account.
  
